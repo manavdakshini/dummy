@@ -2,10 +2,10 @@
     {
       "Name": "Dummy lab guide",
       "Language": "English",
-      "BaseURL": "https://github.com/manavdakshini/dummy",
+      "BaseURL": "https://github.com/manavdakshini/dummy/main",
       "Files": [
         {
-          "RawFilePath": "",
+          "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/dummy/main/quota.md",
           "Order": 1
         }
       ]
